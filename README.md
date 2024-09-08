@@ -1,4 +1,4 @@
-# bibliotec
+# biblioteca
 Recentemente, desenvolvi um banco de dados como parte de um trabalho proposto em sala, no qual foi solicitado a criação de um fluxograma de um sistema, além de detalhar os requisitos de cada função envolvida. Para praticar, escolhi usar o MySQL Workbench para implementar esse projeto.
 
 O sistema que projetei é para uma biblioteca, e inclui as seguintes funcionalidades principais: gestão de usuários, administradores, acervo de livros, reservas de livros e um totem para registro de entrada e saída de estudantes.
